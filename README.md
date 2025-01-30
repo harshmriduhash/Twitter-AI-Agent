@@ -50,7 +50,7 @@ Whether you're a social media manager, influencer, or a tech-savvy professional,
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/twitter-ai-agent.git
+   git clone https://github.com/harshmriduhash/twitter-ai-agent.git
    cd twitter-ai-agent
    ```  
 
