@@ -135,8 +135,3 @@ We welcome contributions! To contribute:
 4. Push to your branch (`git push origin feature-branch`).  
 5. Submit a pull request for review.  
 
----
-
-## 📧 **Contact**  
-
-For questions or feedback, feel free to  reach out on Telegram: [@g0drlc](https://t.me/g0drlc).
